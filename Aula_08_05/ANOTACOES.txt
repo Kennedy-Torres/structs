@@ -1,0 +1,3 @@
+struct:
+- Estrutura de dados composta heterogênea
+- eh um agrupamento lógico
